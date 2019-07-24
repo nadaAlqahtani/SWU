@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "582380989255",
+    "firebase_url": "https://swufirebaseproject-c1051.firebaseio.com",
+    "project_id": "swufirebaseproject-c1051",
+    "storage_bucket": "swufirebaseproject-c1051.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582380989255:android:95b11d4e19fbcb3e",
+        "android_client_info": {
+          "package_name": "com.alnadal.nada.swu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582380989255-9q7nem10u7h8qa9ej7cjftmh89umrenh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alnadal.nada.swu",
+            "certificate_hash": "d93d7352639abd4dd1bed0496bfd16eed8809406"
+          }
+        },
+        {
+          "client_id": "582380989255-03v9kth95o2hak1im12pvcitqrvmt7q6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEGicipVuQB-X2xkP3jteb04ASyeCBVEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582380989255-03v9kth95o2hak1im12pvcitqrvmt7q6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
